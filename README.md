@@ -6,7 +6,7 @@
 
 I’m a Computer Science student at **FAST NUCES, Chiniot-Faisalabad Campus** based in **Islamabad, Pakistan**. I build practical AI-powered web apps, automation tools, and full-stack products with clean interfaces and useful real-world workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://irtizarashid.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://irtiza-portfolio-work.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irtiza%20Rashid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irtiza-rashid-b2846633b/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irtiza.rashid.ramzan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-IrtizaRashid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrtizaRashid)
@@ -70,7 +70,7 @@ I’m a Computer Science student at **FAST NUCES, Chiniot-Faisalabad Campus** ba
 
 ## 📫 Contact
 
-- Portfolio: [irtizarashid.vercel.app](https://irtizarashid.vercel.app)
+- Portfolio: [irtiza-portfolio-work.vercel.app](https://irtiza-portfolio-work.vercel.app)
 - GitHub: [github.com/IrtizaRashid](https://github.com/IrtizaRashid)
 - LinkedIn: [Irtiza Rashid](https://www.linkedin.com/in/irtiza-rashid-b2846633b/)
 - Email: [irtiza.rashid.ramzan@gmail.com](mailto:irtiza.rashid.ramzan@gmail.com)
