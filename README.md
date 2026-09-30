@@ -46,6 +46,7 @@ I’m a Computer Science student at **FAST NUCES, Chiniot-Faisalabad Campus** ba
 
 | Project | Description | Links |
 |---|---|---|
+| **Synapse RAG** | End-to-end retrieval-augmented-generation workspace with document ingestion, cited answers, scoped assistants, Next.js, FastAPI, and Supabase pgvector. | [Code](https://github.com/IrtizaRashid/synapse-rag) · Prototype coming to `rag.irtizarashid.shop` |
 | **AI Email Generator** | AI-powered app for generating professional, personalized emails from prompts. | [Code](https://github.com/IrtizaRashid/AI-Email-Generator) · [Live](https://ai-email-generator-plum.vercel.app) |
 | **Nexus Idea Generator** | AI-powered startup validation platform using Discord, n8n, Gemini, and market research workflows. | [Code](https://github.com/IrtizaRashid/Nexus-Idea-Generator) |
 | **CV Reader** | AI resume reader and job compatibility predictor for ATS-style analysis. | [Code](https://github.com/IrtizaRashid/CV-READER) |
